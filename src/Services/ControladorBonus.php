@@ -2,7 +2,7 @@
 
 namespace Alura\Banco\Services;
 
-use Alura\Banco\Models\Funcionario;
+use Alura\Banco\Models\Funcionario\Funcionario;
 
 class ControladorBonus 
 {
